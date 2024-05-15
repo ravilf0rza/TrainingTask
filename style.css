@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+#section1 {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+.leftphoto {
+    width: 400px;
+    height: 650px;
+    position: fixed;
+    left: 100px;
+}
+.text {
+    position: fixed;
+    top: 50px;
+    left: 50%;
+}
+
+.solfoto {
+    width: 300px;
+    height: 380px;
+    position: fixed;
+    top: 280px;
+    right: 35%;
+}
+.sagfoto {
+    width: 300px;
+    height: 380px;
+    position: fixed;
+    top: 280px;
+    right: 12%;
+}
+.container {
+
+}
+.p1 {
+    background-color: red;
+    color: azure;
+    position: fixed;
+    top: 288px;
+    left: 47%;
+}
+.p2 {
+    background-color: red;
+    color: white;
+    position: fixed;
+    top: 288px;
+    right: 28%;
+}
+.button1 {
+    width: 110px;
+    height: 50px;
+    background-color: wheat;
+    color:brown;
+    border-radius: 35%;
+    position: fixed;
+    top: 665px;
+}
+.button2 {
+    width: 110px;
+    height: 50px;
+    background-color: wheat;
+    color:brown;
+    border-radius: 35%;
+    position: fixed;
+    top: 665px;
+    right: 20%;
+}
